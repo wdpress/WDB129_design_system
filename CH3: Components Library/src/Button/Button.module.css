@@ -1,0 +1,31 @@
+.button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1;
+  color: white;
+  background-color: var(--color-blue-500);
+  border: 1px solid var(--color-blue-500);
+}
+
+.button.outlined {
+  color: var(--color-blue-500);
+  background-color: white;
+}
+
+.small {
+  font-size: 12px;
+  padding: 0 1rem;
+  height: 2rem;
+}
+
+.medium {
+  font-size: 16px;
+  padding: 0 1.5rem;
+  height: 3rem;
+}
