@@ -55,6 +55,7 @@
       "last 1 safari version"
     ]
   },
+  "license": "MIT",
   "devDependencies": {
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-essentials": "^6.4.22",
